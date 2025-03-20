@@ -14,7 +14,7 @@
 
   
 <div align="center">
-  <a href="https://www.linkedin.com/in/cecília-moura-mateus-b8a613342/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20em" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/cecília-moura-mateus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20em" target="_blank"></a> 
 </div>
 
 
